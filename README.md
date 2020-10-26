@@ -4,7 +4,7 @@
 Мои проекты
 
 *[Первый Веб-сайт](https://miditi750.github.io/12/ "Моя первая вебстраничка")  
-*[Первая верстка](https://miditi750.github.io/Delivery/ "верстка потихоньку")
+*[Первая верстка](https://miditi750.github.io/Delivery/ "верстка потихоньку")  
 *[Пробую себя в верстке](https://miditi750.github.io/tentacles/ "верстка потихоньку")  
 
 
